@@ -1,0 +1,15 @@
+baseURL = "https://alexanderb.gihub.io"
+DefaultContentLanguage = "en"
+languageCode = 'en-us'
+title = "Alexander B's place"
+theme = 'hugo-coder'
+
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "pages/about/"
+
+[[menu.main]]
+  name = "CV"
+  weight = 2
+  url = "pages/cv/"
